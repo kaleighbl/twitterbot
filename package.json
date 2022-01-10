@@ -1,0 +1,22 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "muh bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaleighbl/twitterbot.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "Kaleigh Blessard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaleighbl/twitterbot/issues"
+  },
+  "homepage": "https://github.com/kaleighbl/twitterbot#readme"
+}
