@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/kaleighbl/twitterbot/issues"
   },
-  "homepage": "https://github.com/kaleighbl/twitterbot#readme"
+  "homepage": "https://github.com/kaleighbl/twitterbot#readme",
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  }
 }
